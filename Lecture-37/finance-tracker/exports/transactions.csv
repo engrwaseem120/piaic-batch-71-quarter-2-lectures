@@ -1,0 +1,4 @@
+date,type,category,amount,description,id
+2025-12-26,expense,Food,1500,Lunch with colleagues,txn1
+2025-12-26,income,Salary,50000,Monthly salary,txn2
+2025-12-27,expense,Shopping,3000,New shoes,txn3
